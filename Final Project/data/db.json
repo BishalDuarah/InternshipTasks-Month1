@@ -1,0 +1,18 @@
+{
+  "users": [
+    {
+      "username": "alice",
+      "password_hash": "....",
+      "transactions": [
+        {
+          "id": 1,
+          "type": "income",      
+          "amount": 50000.0,
+          "category": "salary",
+          "description": "September salary",
+          "date": "2025-09-01"
+        }
+      ]
+    }
+  ]
+}
